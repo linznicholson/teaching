@@ -1,2 +1,2 @@
-# teaching
-materials I develop for teaching (mainly) about glaciers
+# Teaching
+Some materials I use for teaching fieldbased teaching about glaciers
